@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Alekhya Dabbiru 👋✨
 
-<!--
-**AlekhyaDabbiru100/AlekhyaDabbiru100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science graduate student** 🎓 with a strong interest in **machine learning, deep learning, NLP, and predictive analytics** 🤖📊. I enjoy building data-driven solutions that turn complex datasets into clear insights and practical outcomes 🌟
 
-Here are some ideas to get you started:
+## About Me 💫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 M.S. in **Data Science** at **Seattle University**
+- 💻 Background in **Computer Science**
+- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
+- 🛠️ Comfortable working with **Python, SQL, R, Git, Jupyter, Docker, Tableau, Power BI, PyTorch, TensorFlow/Keras, Snowflake, Spark, Databricks, AWS, and GCP**
+
+## What I Work On 🚀
+
+- 📈 Predictive modeling and classification
+- 🧹 Data cleaning, preprocessing, and feature engineering
+- 📊 Dashboards and visual analytics
+- 🧠 Deep learning and neural network projects
+- ⚙️ ETL pipelines and scalable data workflows
+
+## Experience Highlights 🌸
+
+- 🔍 Built analytics and predictive maintenance workflows using utility pole inspection data
+- 🗂️ Standardized large multi-source datasets and supported automated analytics pipelines
+- 📉 Created dashboards and visualizations to support operational decision-making
+- 🧪 Worked on machine learning projects involving classification, clustering, and model tuning
+
+## Featured Interests 💕
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP
+- 🏗️ Data Engineering
+- 📊 Business Analytics
+- 🎨 Visualization and storytelling with data
+
+## Connect With Me 🌷
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/alekhya-dabbiru99/
+- 💻 **GitHub:** https://github.com/AlekhyaDabbiru100
+- 📧 **Email:** alekhyadabbiru19@gmail.com
+
+## ⚡ Fun fact: I’m a curious and creative soul 🌸✨, love journaling 📓💕, and adore reading books 📚🌙 as a little escape from reality ☁️🦋
