@@ -49,3 +49,7 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 [![Email](https://img.shields.io/badge/Email-FFD6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhyadabbiru19@gmail.com)
 
 ## ⚡ Fun fact: I’m a curious and creative soul 🌸✨, love journaling 📓💕, and adore reading books 📚🌙 as a little escape from reality ☁️🦋
+
+## 🌱 How it started
+
+Back in **8th grade**, I was using **WhatsApp on my dad’s phone** 📱 and got curious about how huge chats, photos, audio, and videos were all stored and shared so easily. I was pretty clueless at the time 😄, but that question stayed with me. After lots of curious YouTube searching and learning along the way, that small moment turned into a real passion for data ✨📊
