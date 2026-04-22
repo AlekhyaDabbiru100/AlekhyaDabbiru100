@@ -47,4 +47,4 @@ I’m a curious and creative soul 🌸✨ who loves journaling 📓💕 and read
 
 ## 🌱 How It Started
 
-Back in **8th grade**, I was using **WhatsApp on my dad’s phone** 📱 and got curious about how messages, photos, audio, and videos were stored and shared so easily. That small question led to lots of learning, exploration, and eventually a real passion for data ✨📊
+Back in **8th grade**, I was using **WhatsApp on my dad’s phone** 📱 and got curious about how huge chats, photos, audio, and videos were all stored and shared so easily. I was pretty clueless at the time 😄, but that question stayed with me. After lots of curious YouTube searching and learning along the way, that small moment turned into a real passion for data ✨📊
