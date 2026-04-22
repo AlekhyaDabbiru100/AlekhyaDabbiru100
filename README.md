@@ -44,8 +44,8 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 
 ## Connect With Me 🌷
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/alekhya-dabbiru99/
-- 💻 **GitHub:** https://github.com/AlekhyaDabbiru100
-- 📧 **Email:** alekhyadabbiru19@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekhya-dabbiru99/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekhyaDabbiru100)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhyadabbiru19@gmail.com)
 
 ## ⚡ Fun fact: I’m a curious and creative soul 🌸✨, love journaling 📓💕, and adore reading books 📚🌙 as a little escape from reality ☁️🦋
