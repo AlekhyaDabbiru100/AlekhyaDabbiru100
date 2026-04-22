@@ -1,15 +1,15 @@
 # Hi, I'm Alekhya Dabbiru 👋✨
 
-### Data Science Graduate Student | Machine Learning & Analytics Enthusiast | Actively Seeking Opportunities 💼
+### Data Science Graduate Student | Machine Learning, Analytics & NLP | Actively Seeking Full-Time Opportunities 💼
 
-I'm a **Data Science graduate student** 🎓 with a strong interest in **machine learning, deep learning, NLP, and predictive analytics** 🤖📊. I enjoy building data-driven solutions that turn complex datasets into clear insights and practical outcomes 🌟
+I'm a **Data Science graduate student at Seattle University** 🎓 with a background in **Computer Science** and a strong interest in **machine learning, deep learning, NLP, and predictive analytics** 🤖📊. I enjoy building data-driven solutions that turn complex datasets into clear insights and practical outcomes.
 
 ## About Me 💫
 
-- 🎓 M.S. in **Data Science** at **Seattle University**
+- 🎓 Pursuing an **M.S. in Data Science** at **Seattle University**
 - 💻 Background in **Computer Science**
-- 🤖 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
-- 🛠️ Comfortable working with **Python, SQL, R, Git, Jupyter, Docker, Tableau, Power BI, PyTorch, TensorFlow/Keras, Snowflake, Spark, Databricks, AWS, and GCP**
+- 📊 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
+- 💼 **Actively seeking full-time opportunities** in **Data Science, Machine Learning, Data Analytics, and AI-related roles**
 
 ## Tech Stack 🛠️
 
@@ -26,13 +26,6 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 - 🧠 Deep learning and neural network projects
 - ⚙️ ETL pipelines and scalable data workflows
 
-## Experience Highlights 🌸
-
-- 🔍 Built analytics and predictive maintenance workflows using utility pole inspection data
-- 🗂️ Standardized large multi-source datasets and supported automated analytics pipelines
-- 📉 Created dashboards and visualizations to support operational decision-making
-- 🧪 Worked on machine learning projects involving classification, clustering, and model tuning
-
 ## Featured Interests 💕
 
 - 🤖 Machine Learning
@@ -40,7 +33,7 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 - 💬 NLP
 - 🏗️ Data Engineering
 - 📊 Business Analytics
-- 🎨 Visualization and storytelling with data
+- 🎨 Data storytelling and visualization
 
 ## Connect With Me 🌷
 
@@ -48,8 +41,10 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 [![GitHub](https://img.shields.io/badge/GitHub-DCCEF9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekhyaDabbiru100)
 [![Email](https://img.shields.io/badge/Email-FFD6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhyadabbiru19@gmail.com)
 
-## ⚡ Fun fact: I’m a curious and creative soul 🌸✨, love journaling 📓💕, and adore reading books 📚🌙 as a little escape from reality ☁️🦋
+## ⚡ A Little About Me
 
-## 🌱 How it started
+I’m a curious and creative soul 🌸✨ who loves journaling 📓💕 and reading books 📚🌙.
 
-Back in **8th grade**, I was using **WhatsApp on my dad’s phone** 📱 and got curious about how huge chats, photos, audio, and videos were all stored and shared so easily. I was pretty clueless at the time 😄, but that question stayed with me. After lots of curious YouTube searching and learning along the way, that small moment turned into a real passion for data ✨📊
+## 🌱 How It Started
+
+Back in **8th grade**, I was using **WhatsApp on my dad’s phone** 📱 and got curious about how messages, photos, audio, and videos were stored and shared so easily. That small question led to lots of learning, exploration, and eventually a real passion for data ✨📊
