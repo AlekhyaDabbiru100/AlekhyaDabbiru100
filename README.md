@@ -1,5 +1,7 @@
 # Hi, I'm Alekhya Dabbiru 👋✨
 
+### Data Science Graduate Student | Machine Learning & Analytics Enthusiast | Actively Seeking Opportunities 💼
+
 I'm a **Data Science graduate student** 🎓 with a strong interest in **machine learning, deep learning, NLP, and predictive analytics** 🤖📊. I enjoy building data-driven solutions that turn complex datasets into clear insights and practical outcomes 🌟
 
 ## About Me 💫
@@ -8,6 +10,13 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 - 💻 Background in **Computer Science**
 - 🤖 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
 - 🛠️ Comfortable working with **Python, SQL, R, Git, Jupyter, Docker, Tableau, Power BI, PyTorch, TensorFlow/Keras, Snowflake, Spark, Databricks, AWS, and GCP**
+
+## Tech Stack 🛠️
+
+**Languages:** Python, SQL, R, Java  
+**ML / AI:** scikit-learn, XGBoost, CatBoost, PyTorch, TensorFlow/Keras  
+**Data Tools:** Tableau, Power BI, Jupyter, Git, Docker  
+**Data Engineering / Cloud:** Snowflake, Spark, Databricks, MLflow, AWS, GCP  
 
 ## What I Work On 🚀
 
