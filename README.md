@@ -44,8 +44,8 @@ I'm a **Data Science graduate student** 🎓 with a strong interest in **machine
 
 ## Connect With Me 🌷
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A7C7E7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekhya-dabbiru99/)
-[![GitHub](https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekhyaDabbiru100)
-[![Email](https://img.shields.io/badge/Email-FFB3BA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhyadabbiru19@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BFD7ED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alekhya-dabbiru99/)
+[![GitHub](https://img.shields.io/badge/GitHub-DCCEF9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlekhyaDabbiru100)
+[![Email](https://img.shields.io/badge/Email-FFD6D6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekhyadabbiru19@gmail.com)
 
 ## ⚡ Fun fact: I’m a curious and creative soul 🌸✨, love journaling 📓💕, and adore reading books 📚🌙 as a little escape from reality ☁️🦋
