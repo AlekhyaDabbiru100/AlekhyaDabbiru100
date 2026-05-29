@@ -7,9 +7,9 @@ I'm a **Data Science graduate student at Seattle University** 🎓 with a backgr
 ## About Me 💫
 
 - 🎓 Pursuing an **M.S. in Data Science** at **Seattle University**
-💻 Background in **Computer Science**
-📊 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
-💼 **Actively seeking full-time opportunities** in **Data Science, Machine Learning, Data Analytics, and AI-related roles**
+- 💻 Background in **Computer Science**
+- 📊 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
+- 💼 **Actively seeking full-time opportunities** in **Data Science, Machine Learning, Data Analytics, and AI-related roles**
 
 ## Tech Stack 🛠️
 
@@ -20,20 +20,20 @@ I'm a **Data Science graduate student at Seattle University** 🎓 with a backgr
 
 ## What I Work On 🚀
 
-📈 Predictive modeling and classification
-🧹 Data cleaning, preprocessing, and feature engineering
-📊 Dashboards and visual analytics
-🧠 Deep learning and neural network projects
-⚙️ ETL pipelines and scalable data workflows
+- 📈 Predictive modeling and classification
+- 🧹 Data cleaning, preprocessing, and feature engineering
+- 📊 Dashboards and visual analytics
+- 🧠 Deep learning and neural network projects
+- ⚙️ ETL pipelines and scalable data workflows
 
 ## Featured Interests 💕
 
-🤖 Machine Learning
-🧠 Deep Learning
-💬 NLP
-🏗️ Data Engineering
-📊 Business Analytics
-🎨 Data storytelling and visualization
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP
+- 🏗️ Data Engineering
+- 📊 Business Analytics
+- 🎨 Data storytelling and visualization
 
 ## Connect With Me 🌷
 
