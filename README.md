@@ -6,8 +6,8 @@ I'm a **Data Science graduate student at Seattle University** 🎓 with a backgr
 
 ## About Me 💫
 
-🎓 Pursuing an **M.S. in Data Science** at **Seattle University**
-\n 💻 Background in **Computer Science**
+- 🎓 Pursuing an **M.S. in Data Science** at **Seattle University**
+💻 Background in **Computer Science**
 📊 Interested in **Machine Learning, Deep Learning, NLP, Statistical Modeling, and Data Visualization**
 💼 **Actively seeking full-time opportunities** in **Data Science, Machine Learning, Data Analytics, and AI-related roles**
 
